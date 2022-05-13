@@ -4,7 +4,7 @@
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
 
-(https://github-readme-stats.vercel.app/api?username=MarcioJunior133&show_icons=true&theme=radical)
+![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=MarcioJunior133&show_icons=true&theme=radical)
 
 
 <!---
